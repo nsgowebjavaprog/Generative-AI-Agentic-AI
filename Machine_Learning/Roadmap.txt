@@ -1,0 +1,5 @@
+1. Introducation to ML
+2. Supervised ML & Un-Supervised ML
+3. Maths
+4. R^2 & Adjusted R^2
+5. etc
