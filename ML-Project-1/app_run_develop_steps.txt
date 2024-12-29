@@ -1,0 +1,27 @@
+1 .pip install -r requirements.txt
+
+2. pip install numpy
+
+3. pip install pandas
+
+4. pip install streamlit
+
+5. streamlit run app.py
+
+  ///////////////////////////////////////////////////////////
+    creating that file if necessary:
+
+    [browser]
+    gatherUsageStats = false
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.222.95:8501
+
+  ///////////////////////////////////////////////////////////
+
+
+
+  6. pip install scikit-learn
